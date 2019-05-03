@@ -2,6 +2,8 @@ package EntidadBancaria.entidadBancaria;
 
 public class Banco {
 
+    //Banco
+
     private String nombre;
     private String identificador;
 
